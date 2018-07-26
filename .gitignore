@@ -1,0 +1,13 @@
+*.out
+*.o
+*.*~
+*.csv
+*.*#
+*.dat
+*.eps
+*.png
+*.npy
+*.pyc
+
+vm
+spkTimes
